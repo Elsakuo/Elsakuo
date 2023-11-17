@@ -1,16 +1,15 @@
-### Hi there 👋
+### 學歷：
 
-<!--
-**Elsakuo/Elsakuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 中正高中
+- 輔仁大學
 
-Here are some ideas to get you started:
+### 經歷：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- FRC社團教學幹部
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 信箱：
+- 📫 How to reach me: yr.elsa2005@gmail.com
+
+
